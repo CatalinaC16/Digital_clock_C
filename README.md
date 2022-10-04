@@ -1,0 +1,1 @@
+A simple program that implements a digital clock, it has 3 functions: count ascending, descending and hold.
